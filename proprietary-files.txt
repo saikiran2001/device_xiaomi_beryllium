@@ -345,20 +345,6 @@ vendor/etc/sensors/config/tmd2725.json
 vendor/etc/sensors/hals.conf
 vendor/etc/sensors/sns_reg_config
 
-# Thermal configs
-vendor/etc/thermal-engine-sdm845-arvr.conf
-vendor/etc/thermal-engine-sdm845-camera.conf
-vendor/etc/thermal-engine-sdm845-class0.conf
-vendor/etc/thermal-engine-sdm845-e10-india.conf
-vendor/etc/thermal-engine-sdm845-extreme.conf
-vendor/etc/thermal-engine-sdm845-map.conf
-vendor/etc/thermal-engine-sdm845-nolimits.conf
-vendor/etc/thermal-engine-sdm845-pubgmhd.conf
-vendor/etc/thermal-engine-sdm845-sgame.conf
-vendor/etc/thermal-engine-sdm845-tgame.conf
-vendor/etc/thermal-engine-sdm845.conf
-vendor/etc/thermal-engine.conf
-
 # Widevine DRM L1 support
 vendor/lib64/libhdcpsrm.so
 vendor/lib64/liboemcrypto.so
