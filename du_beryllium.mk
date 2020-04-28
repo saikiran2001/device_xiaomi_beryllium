@@ -9,6 +9,9 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 # Inherit some common Corvus stuff.
 $(call inherit-product, vendor/du/config/common_full_phone.mk)
 
+# Inherit from custom vendor
+$(call inherit-product, vendor/MiuiCamera/config.mk)
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := du_beryllium
 PRODUCT_DEVICE := beryllium
