@@ -689,7 +689,10 @@
     <!-- Height of the status bar -->
     <dimen name="status_bar_height_portrait">86.0px</dimen>
     <dimen name="status_bar_height_landscape">86.0px</dimen>
-    <dimen name="rounded_corner_radius_top">104px</dimen>
+    <dimen name="rounded_corner_radius">104px</dimen>
+
+    <!-- Whether to show vendor mismatch message. -->
+    <bool name="config_show_vendor_mismatch_message">false</bool>
 
     <!-- Whether device has a notch -->
     <bool name="config_haveNotch">true</bool>
