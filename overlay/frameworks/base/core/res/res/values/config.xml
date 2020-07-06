@@ -684,10 +684,10 @@
                 <string ...>M -5,0 L -5,10 L 5,10 L 5,0 Z @dp</string>
          @see https://www.w3.org/TR/SVG/paths.html#PathData
          -->
-    <string translatable="false" name="config_mainBuiltInDisplayCutout">M -270,0 L -270,86 L 270,86 L 270,0 Z</string>
+    <string translatable="false" name="config_mainBuiltInDisplayCutout">M -270,0 L -270,89 L 270,89 L 270,0 Z</string>
 
     <!-- Height of the status bar -->
-    <dimen name="status_bar_height_portrait">86.0px</dimen>
+    <dimen name="status_bar_height_portrait">90.0px</dimen>
     <dimen name="status_bar_height_landscape">86.0px</dimen>
 
     <!-- Whether to show vendor mismatch message. -->
@@ -723,4 +723,5 @@
 
     <!-- Do not translate. Default access point SSID used for tethering -->
     <string name="wifi_tether_configure_ssid_default" translatable="false">Poco F1</string>
+
 </resources>
